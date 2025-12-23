@@ -95,8 +95,10 @@ MySQL
 
 JWT issuer / public key
 
-Step 4: Run Auth Service
+Step 4: Run Auth Service 
+
 cd auth-service
+
 mvn spring-boot:run
 
 Default port (example):
